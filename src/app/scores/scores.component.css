@@ -1,0 +1,13 @@
+.parent{
+  display: flex;
+  
+}
+
+
+.left{
+  border: 2px solid red;
+  margin-bottom: 5px;
+}
+.right{
+  border: 3px solid blue;
+}
